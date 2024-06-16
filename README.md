@@ -18,7 +18,7 @@ and the picture bellow show what I said:
 
 <b> To explain everything </b>
 
-<img src"https://i.imgur.com/Dt4xu3V.png">
+<img src"https://i.imgur.com/eqcuCLN.png">
 
 `To make things clear let me break it for you`
 
