@@ -18,7 +18,7 @@ and the picture bellow show what I said:
 
 <b> To explain everything </b>
 
-<img src"https://i.imgur.com/eqcuCLN.png">
+<img src"https://ibb.co/zGMnZRH">
 
 `To make things clear let me break it for you`
 
@@ -31,3 +31,4 @@ and the picture bellow show what I said:
 <i> Autor: Hamza Mazzout </i>
 
 </html>
+
