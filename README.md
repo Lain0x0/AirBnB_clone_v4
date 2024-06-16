@@ -18,7 +18,7 @@ and the picture bellow show what I said:
 
 <b> To explain everything </b>
 
-<img src"https://ibb.co/zGMnZRH">
+<a href="https://ibb.co/zGMnZRH"> Click to understand </a>
 
 `To make things clear let me break it for you`
 
